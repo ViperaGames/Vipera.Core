@@ -1,0 +1,16 @@
+{
+  "name": "com.vipera.core",
+  "displayName": "Vipera Core",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "keywords": [
+    "Core",
+    "Vipera Core",
+    "Vipera"
+  ],
+  "description": "Reused Logic",
+  "hideInEditor": false,
+  "author": {
+    "name": "Vipera Games"
+  }
+}
